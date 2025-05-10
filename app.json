@@ -40,19 +40,19 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -64,13 +64,13 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ANTI_DEL_PATH": {
@@ -88,7 +88,7 @@
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "BOT_NAME": {
@@ -118,13 +118,13 @@
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ∂αяк-sιℓεηcε-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω"
     },
     
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ALWAYS_ONLINE": {
@@ -136,7 +136,7 @@
     "FAKE_TYPING": {
       "description": "make it true if you want to show fake typing.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
     
     "CURRENT_STATUS": {
@@ -160,7 +160,7 @@
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "2349132095836"
     }, 
 
      "OWNER_NAME": {
