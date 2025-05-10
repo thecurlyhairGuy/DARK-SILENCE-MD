@@ -94,7 +94,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦∂αяк-sιℓεηcε-м∂✦"
+      "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 "
     }, 
 
     "HEART_REACT": {
@@ -130,7 +130,7 @@
     "ALWAYS_ONLINE": {
       "description": "make it true if you want to show always online.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
     
     "FAKE_TYPING": {
@@ -160,7 +160,7 @@
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "2349132095836"
+      "value": "2347086606304"
     }, 
 
      "OWNER_NAME": {
